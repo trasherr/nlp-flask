@@ -80,4 +80,4 @@ api.add_resource(Spell, '/spell')
 api.add_resource(Readability, '/readability')
 
 if __name__ == '__main__':
-    app.run()  # run our Flask app
+    app.run(debug=False)  # run our Flask app
