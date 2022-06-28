@@ -4,3 +4,4 @@ scipy==1.8.1
 sentence_transformers==2.2.2
 spellchecker==0.4
 textstat==0.7.3
+gunicorn
